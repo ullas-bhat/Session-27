@@ -21,15 +21,15 @@ Monday, November 16
 
 * 08:30 AM – 09:00 AM o Registration
 * 09:00 AM – 09:30 AM o Welcome to Session 27
-* 09:30 AM – 10:15 AM o Lecture I: An Introduction to Time-Series Analysis; A Miller
+* 09:30 AM – 10:15 AM o Lecture I: [The Inevitability of the Time Domain](Day1/InevitabilityOfTheTimeDomain.ipynb); A Miller
 * 10:15 AM – 10:45 AM o BREAK
-* 10:45 AM – 12:00 PM o Problem I: Exploring and Characterizing Time-Series Data; A Miller
+* 10:45 AM – 12:00 PM o Problem I: [Correlating Light Curves](Day1/CorrelationFunctions.ipynb) | [Solutions](Day1/CorrelationFunctionsSolutions.ipynb); A Miller
 * 12:00 PM – 01:30 PM o LUNCH
-* 01:30 PM – 02:15 PM o Lecture II: Introduction to Fourier Methods; J Johnson
-* 02:15 PM – 03:30 PM o Problem II: Fourier Methods in Practice; J Johnson
+* 01:30 PM – 02:15 PM o Lecture II: [Introduction to Fourier Methods](Day1/IntroToFourierMethods.ipynb); J Johnson
+* 02:15 PM – 03:30 PM o Problem II: [Fourier Methods in Practice](Day1/FourierMethodsProblem1.ipynb) | [Solutions](Day1/FourierMethodsProblem1-solutions.ipynb); J Johnson
 * 03:30 PM – 04:00 PM o BREAK
-* 04:00 PM – 04:45 PM o Lecture III: Finding Periodicity in Unevenly Sampled Data with Lomb-Scargle; A Miller
-* 04:45 PM – 06:00 PM o Problem III: Lomb-Scargle Periodograms; A Miller
+* 04:00 PM – 04:45 PM o Lecture III: [Finding Periodicity in Unevenly Sampled Data with Lomb-Scargle](Day1/IntroductionToTheLombScarglePeriodogram.ipynb); A Miller
+* 04:45 PM – 06:00 PM o Problem III: [Real World Considerations for Lomb Scargle](Day1/RealWorldLombScargle.ipynb) | [Solutions](Day1/RealWorldLombScargleSolutions.ipynb); A Miller
 * 06:30 PM – 08:30 PM o Group dinner
 
 ## Day 2 – Signals, Noise, and Models

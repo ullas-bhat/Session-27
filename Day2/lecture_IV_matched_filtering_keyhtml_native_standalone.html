@@ -1331,6 +1331,7 @@ demos.gallery = () => {
 
 // Slide 7: fit one amplitude
 (() => {
+  if (!$('c_amp')) return;  // slide removed; guard keeps the rest of the custom JS running
   const n = 240, x = range(n, i => i), s = x.map(v => Math.exp(-((v - 120) ** 2) / (2 * 18 * 18)));
   const r = rng(11), z = range(n, () => gauss(r)), big = range(n, () => r() < 0.4);
   function draw() {

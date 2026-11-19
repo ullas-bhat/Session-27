@@ -1,0 +1,5 @@
+The slides are one standalone HTML file, too large for GitHub (145 MB).
+Download lecture_VIII_pixels_to_light_curves_standalone.html from this
+Dropbox folder and open it in a browser:
+
+https://www.dropbox.com/scl/fo/xplx0gcs47585q0j4i5vf/ADKcfZ1EAMlTB0bDf8H3_eM?rlkey=jlab3wt0bgp5dv0mupcd3dojv&st=q946cged&dl=0
